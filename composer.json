@@ -1,5 +1,5 @@
 {
-    "name": "rigo/BootstrapFileInputBundle",
+    "name": "rigosv/bootstrap-file-input-bundle",
     "license": "MIT",
     "type": "project",
     "autoload": {
