@@ -5,11 +5,7 @@
     "autoload": {
         "psr-4": {
             "BootstrapFileInputBundle\\": "src/BootstrapFileInputBundle"
-        },
-        "classmap": [
-            "app/AppKernel.php",
-            "app/AppCache.php"
-        ]
+        }
     },
     "autoload-dev": {
         "files": [
